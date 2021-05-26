@@ -1,0 +1,32 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.shahxad.flutter_background_location" >
+4
+5    <uses-sdk android:minSdkVersion="16" />
+5-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\flutter_background_location-0.0.4\android\src\main\AndroidManifest.xml
+6
+7    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+7-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\flutter_background_location-0.0.4\android\src\main\AndroidManifest.xml:4:5-81
+7-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\flutter_background_location-0.0.4\android\src\main\AndroidManifest.xml:4:22-78
+8    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+8-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\flutter_background_location-0.0.4\android\src\main\AndroidManifest.xml:5:5-79
+8-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\flutter_background_location-0.0.4\android\src\main\AndroidManifest.xml:5:22-76
+9    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+9-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\flutter_background_location-0.0.4\android\src\main\AndroidManifest.xml:6:5-77
+9-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\flutter_background_location-0.0.4\android\src\main\AndroidManifest.xml:6:22-74
+10
+11    <application>
+11-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\flutter_background_location-0.0.4\android\src\main\AndroidManifest.xml:9:5-15:19
+12        <service
+12-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\flutter_background_location-0.0.4\android\src\main\AndroidManifest.xml:10:9-14:37
+13            android:name="com.shahxad.flutter_background_location.LocationUpdatesService"
+13-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\flutter_background_location-0.0.4\android\src\main\AndroidManifest.xml:11:13-51
+14            android:enabled="true"
+14-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\flutter_background_location-0.0.4\android\src\main\AndroidManifest.xml:12:13-35
+15            android:exported="true"
+15-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\flutter_background_location-0.0.4\android\src\main\AndroidManifest.xml:13:13-36
+16            android:permission="" />
+16-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\flutter_background_location-0.0.4\android\src\main\AndroidManifest.xml:14:13-34
+17    </application>
+18
+19</manifest>

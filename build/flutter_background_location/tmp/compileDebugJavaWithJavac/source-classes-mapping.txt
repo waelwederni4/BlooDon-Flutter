@@ -1,0 +1,2 @@
+com/shahxad/flutter_background_location/BuildConfig.java
+ com.shahxad.flutter_background_location.BuildConfig
